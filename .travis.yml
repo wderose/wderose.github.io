@@ -1,0 +1,27 @@
+# Install the apt prerequisites
+addons:
+  apt:
+    packages:
+      - python-pygments
+
+# Clean and don't fail
+install:
+  - rm -rf public || exit 0
+  - chmod +x binaries/hugo
+
+# Build the website
+script:
+  - binaries/hugo
+
+# Deploy to GitHub pages
+deploy:
+  provider: pages
+  skip-cleanup: true
+  local-dir: public
+  keep-history: false
+  github-token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  target-branch: master
+  repo: <USER>/<USER>.github.io # Replace <USER> with your username
+  verbose: true
+  on:
+    branch: master
