@@ -13,7 +13,7 @@ A responsive, dependency-free personal website, updated from Bill's November 202
 - `assets/`: portrait and favicon.
 - `sitemap.xml`: canonical URLs and update dates.
 
-Keep résumé dates, qualifications such as “estimated” and “projected,” and patent application versus granted-patent status accurate when editing. No JavaScript, package installation, or build step is required.
+Keep résumé dates, qualifications such as “estimated” and “projected,” and patent application versus granted-patent status accurate when editing. The homepage deliberately summarizes experience; the résumé retains the full detail. No JavaScript, package installation, or build step is required.
 
 ## Preview
 
