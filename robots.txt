@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wderose.github.io/sitemap.xml
