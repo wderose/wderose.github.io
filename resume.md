@@ -1,6 +1,6 @@
 # Bill DeRose, M.Sc.
 
-San Francisco Bay Area, California | [redacted-phone] | [[redacted-email]](mailto:[redacted-email]) | [linkedin.com/in/billderose](https://linkedin.com/in/billderose) | [wderose.github.io](https://wderose.github.io/) | [github.com/wderose](https://github.com/wderose) | [stackoverflow.com/users/1374086/bill-derose](https://stackoverflow.com/users/1374086/bill-derose)
+San Francisco Bay Area, California | [[redacted-email]](mailto:[redacted-email]) | [linkedin.com/in/billderose](https://linkedin.com/in/billderose) | [wderose.github.io](https://wderose.github.io/) | [github.com/wderose](https://github.com/wderose) | [stackoverflow.com/users/1374086/bill-derose](https://stackoverflow.com/users/1374086/bill-derose)
 
 
 ## Professional Experience
